@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Shiv0a
-- 👀 I’m interested in Coding, Cyber Security and Learning...
-- 🌱 I’m currently learning Full Stack Web-Developement and Python...
-- 💞️ I’m looking to collaborate on Start-ups and Buisnesses
-- 📫 How to reach me : By linked-in https://shiv0a.github.io/Portfolio/
+# Hi, I'm Shivansh 👋
 
-<!---
-Shiv0a/Shiv0a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about building web & mobile apps  
+💻 Currently learning AI & Blockchain  
+🌱 Open to internships and freelance projects
+
+### 🛠️ Tech Stack
+- Languages: JavaScript, Python, C++
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express
+- DB: MongoDB, MySQL
+- Tools: Git, VS Code, Postman
+
+### 🔥 Projects
+- 🚴 [Food Delivery App (React + Node)]
+- 📚 [AI Assistant for Seniors (Python)]
+- 🛒 [E-Commerce Site ]
+
+📫 Contact me: [LinkedIn](www.linkedin.com/in/shivansh-nagar-6264s) | nagarshivansh009@email.com
+
